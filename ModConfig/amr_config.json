@@ -1,0 +1,11 @@
+{
+  "ToolFragmentRecovery": true,
+  "VoxelEquivalentValue": 2.38,
+  "BlackList": [
+    "game:metalplate",
+    "game:metallamellae",
+    "game:metalchain",
+    "game:metalscale"
+  ],
+  "ToolRecoveryRate": 0.85
+}

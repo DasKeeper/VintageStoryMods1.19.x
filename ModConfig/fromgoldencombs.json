@@ -1,0 +1,16 @@
+{
+  "SkepDaysToHarvestIn30DayMonths": 7.0,
+  "ClayPotDaysToHarvestIn30DayMonths": 7.0,
+  "LangstrothDaysToHarvestIn30DayMonths": 7.0,
+  "MaxStackSize": 6,
+  "baseframedurability": 32,
+  "minFramePerCycle": 2,
+  "maxFramePerCycle": 4,
+  "showcombpoptime": true,
+  "CeramicPotMinYield": 2,
+  "CeramicPotMaxYield": 4,
+  "FrameMinYield": 2,
+  "FrameMaxYield": 4,
+  "SkepMinYield": 1,
+  "SkepMaxYield": 3
+}
