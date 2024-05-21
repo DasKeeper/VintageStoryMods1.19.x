@@ -3,7 +3,7 @@ Modpack. Сборка модов для Vintage Story 1.19.7, 1.19.8, подав
 
 Mods:
 
-StepUp-v1.2.0.cs
+* StepUp-v1.2.0.cs
 ACulinaryArtillery 1.1.3.zip
 alchemy_1.6.25.zip
 animationmanagerlib_0.7.0.zip
