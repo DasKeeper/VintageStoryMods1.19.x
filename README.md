@@ -52,6 +52,9 @@ Modpack. Сборка модов для Vintage Story 1.19.7, 1.19.8, подав
 # Установка:
 Установите 1.19.7 или 1.19.8 версию игры https://account.vintagestory.at/
 (требуется активный аккаунт)
+
+# Видос:
+https://www.youtube.com/watch?v=XlRt5Zz_zIQ
 Перейдите в каталог C:\Users\<username>\AppData\Roaming\VintagestoryData
 Клонируйте и положите туда из репозитория каталоги Mods, ModConfig
 Играйте!
