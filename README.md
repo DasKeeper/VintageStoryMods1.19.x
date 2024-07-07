@@ -49,7 +49,15 @@ Modpack. Сборка модов для Vintage Story 1.19.7, 1.19.8, подав
 * nightvisiondeviceswitch.zip
 * betterjonasdevices_1.1.0.zip
 * FromGoldenCombs-1.19-v1.4.30.zip
-
+* HelveHammerExtensions_VS1.19.0-rc.5_net7_v1.6.0.zip\
+* GeologyAddons 1.3.4.zip
+* rivers_3.1.0.zip
+* VanillaPlusV1.3.5.zip
+* JustMoreRuins v 0.9.8.zip
+* Temporal Tinkerer 2.4.2.zip
+* LiquidContainers-1.2.0.zip
+* balancedthirst_0.0.24.zip
+  
 # Установка:
 Установите 1.19.7 или 1.19.8 версию игры https://account.vintagestory.at/
 (требуется активный аккаунт)
