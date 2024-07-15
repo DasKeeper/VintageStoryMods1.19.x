@@ -1,0 +1,13 @@
+{
+  "EnableThirst": true,
+  "EnableBladder": true,
+  "ContainerDrinkSpeed": 0.25,
+  "DowsingRodRadius": 50.0,
+  "FruitHydrationYield": 0.3,
+  "VegetableHydrationYield": 0.2,
+  "DairyHydrationYield": 0.1,
+  "ProteinHydrationYield": 0.1,
+  "GrainHydrationYield": -0.2,
+  "NoNutritionHydrationYield": 0.0,
+  "UnknownHydrationYield": 0.0
+}

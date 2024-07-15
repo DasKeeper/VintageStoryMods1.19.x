@@ -1,0 +1,109 @@
+{
+  "iconSize": 32,
+  "showHidden": false,
+  "text": {
+    "colour": {
+      "r": 0.91,
+      "g": 0.87,
+      "b": 0.81,
+      "a": 1.0
+    },
+    "size": 16.0,
+    "bold": true,
+    "offsetX": 0.0,
+    "offsetY": -19.0,
+    "align": 2
+  },
+  "months": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ],
+  "options": {
+    "temperatureScale": "C",
+    "timeFormat": "24hr"
+  },
+  "compassAbsolute": false,
+  "elements": {
+    "-6": {
+      "name": "date",
+      "halign": -1,
+      "x": 24,
+      "valign": 1,
+      "y": 12
+    },
+    "-5": {
+      "name": "time",
+      "halign": -1,
+      "x": 86,
+      "valign": 1,
+      "y": 12
+    },
+    "-4": {
+      "name": "weather",
+      "halign": -1,
+      "x": 144,
+      "valign": 1,
+      "y": 12
+    },
+    "-3": {
+      "name": "wind",
+      "halign": -1,
+      "x": 192,
+      "valign": 1,
+      "y": 12
+    },
+    "-2": {
+      "name": "stability",
+      "halign": 0,
+      "x": 0,
+      "valign": 0,
+      "y": 0
+    },
+    "-1": {
+      "name": "armour",
+      "halign": 0,
+      "x": 0,
+      "valign": 0,
+      "y": 0
+    },
+    "1": {
+      "name": "room",
+      "halign": 0,
+      "x": 0,
+      "valign": 0,
+      "y": 0
+    },
+    "2": {
+      "name": "sleep",
+      "halign": 1,
+      "x": 328,
+      "valign": -1,
+      "y": 32
+    },
+    "3": {
+      "name": "wet",
+      "halign": 1,
+      "x": 280,
+      "valign": -1,
+      "y": 32
+    },
+    "4": {
+      "name": "time-local",
+      "halign": 1,
+      "x": 24,
+      "valign": 1,
+      "y": 12
+    }
+  },
+  "installed": true
+}

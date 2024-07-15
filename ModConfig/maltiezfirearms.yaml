@@ -1,0 +1,46 @@
+version: 2
+# Match being put out when player is swimming
+match-put-out-by-water: Enabled # value from: Enabled, Disabled (default: Enabled) 
+# Gunpowder becoming wet outside of powder flask if player is swimming
+powder-wet-out-by-water: Enabled # value from: Enabled, Disabled (default: Enabled) 
+# Weahter certain locks recipes require 'tinkerer' trait
+recipes-locked-to-tinkerer: Required # value from: Required, Not Required (default: Required) 
+# Allow to copy schematics for flintlock and socket bayonet
+schematic-copy-recipe: Disabled # value from: Enabled, Disabled (default: Disabled) 
+
+
+
+# Chance that schematic will spawn in ruins in chests.
+# Higher number means higher chance to find.
+# But high chance will result in jonas parts becoming rare, cause they share smae stack randomizers.
+schematic-spawn-chance: 1 # from 0 to 100 with step of 1 (default: 1) 
+
+
+
+# Multiplies damage caused by firearms projectiles. It is recommended to leave in on 1.0. Default damages are balanced with considiration to vanilla animals and mobs hp values.
+damage-multiplier: 1 # from 0,5 to 2 (default: 1) 
+# Lower values correspond to higher accuracy
+dispersion-multiplier: 1 # from 0 to 3 (default: 1) 
+# How much flask durability one powder item will fill
+powder-to-flask-ratio: 8 # from 1 to 64 with step of 1 (default: 8) 
+# Turns on/off steel amunition.
+steel-ammunition: Enabled # value from: Enabled, Disabled (default: Enabled) 
+# Attack tier of a steel bullet (main usecase against heavily armoured players). It is balanced (at tier 7) to deal more damage to player in fullplate steel armour then lead alternative
+steel-bullet-tier: 7 # from 0 to 20 (default: 7) 
+# Attack tier of a steel slug (main usecase against heavily armoured players).
+# It is balanced (at tier 10) to oneshot a 16 hp player in fullplate steel armour from a musket.
+steel-slug-tier: 10 # from 0 to 20 (default: 10) 
+
+
+
+# Value in description will not change and will show wrong number
+bayonet-damage-when-attached: 4.8 # value from: 4,3, 4,8, 5,3 (default: 4,8) 
+# Affects it effectiveness against armor. Steel falx has 5, all spears have 0. Value in description will not change and will show wrong number.
+bayonet-damage-tier-when-attached: 5 # from 0 to 6 with step of 1 (default: 5) 
+
+
+
+# Multiplier for amount of smoke particles produced on firing
+smoke-density: 1 # from 0 to 3 (default: 1) 
+# Multiplier for amount of glowing unburned powder particles on firing
+fireblast-density: 1 # from 0 to 3 (default: 1) 
